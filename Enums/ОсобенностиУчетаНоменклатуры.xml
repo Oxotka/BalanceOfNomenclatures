@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<Enum uuid="88fd094d-50cb-437a-86e9-898385771d47">
+	<Enum uuid="30312abc-abb0-4491-86c9-2ceb219659b5">
 		<InternalInfo>
-			<xr:GeneratedType name="EnumRef.ВариантыНавигацииВФормахНоменклатуры" category="Ref">
-				<xr:TypeId>8bc33ffb-c955-4e2e-8388-734785a2d9e2</xr:TypeId>
-				<xr:ValueId>4ada7558-36ed-4d0e-89ff-793bc47ceb13</xr:ValueId>
+			<xr:GeneratedType name="EnumRef.ОсобенностиУчетаНоменклатуры" category="Ref">
+				<xr:TypeId>33c025d0-9175-49b9-9f06-57fbee221143</xr:TypeId>
+				<xr:ValueId>ab4d3bd1-4ccf-40d0-9bde-839f8aad3d4d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumManager.ВариантыНавигацииВФормахНоменклатуры" category="Manager">
-				<xr:TypeId>ea47f6b4-0b47-4f8f-b4b0-0aa41570f2ea</xr:TypeId>
-				<xr:ValueId>c808ea21-31d6-4810-8c4d-198c78842e22</xr:ValueId>
+			<xr:GeneratedType name="EnumManager.ОсобенностиУчетаНоменклатуры" category="Manager">
+				<xr:TypeId>4c2ce691-e168-480f-b3ba-f189b06df8ca</xr:TypeId>
+				<xr:ValueId>e393866d-e535-420e-814b-2163890e5428</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumList.ВариантыНавигацииВФормахНоменклатуры" category="List">
-				<xr:TypeId>5a72e1bc-e756-463d-a291-213cca7b957d</xr:TypeId>
-				<xr:ValueId>d44abe21-10b3-461f-97be-f20c8833a226</xr:ValueId>
+			<xr:GeneratedType name="EnumList.ОсобенностиУчетаНоменклатуры" category="List">
+				<xr:TypeId>3a98978e-98ae-48f7-a990-bd1d7cd1126f</xr:TypeId>
+				<xr:ValueId>bfee78a2-a5be-4d40-8af8-2a2925e456c7</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ВариантыНавигацииВФормахНоменклатуры</Name>
+			<Name>ОсобенностиУчетаНоменклатуры</Name>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 		</Properties>
 		<ChildObjects/>

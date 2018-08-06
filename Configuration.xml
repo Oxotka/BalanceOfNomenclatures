@@ -55,6 +55,9 @@
 			<FunctionalOption>ИспользоватьСегментыНоменклатуры</FunctionalOption>
 			<FunctionalOption>ИспользоватьКачествоТоваров</FunctionalOption>
 			<DefinedType>Артикул</DefinedType>
+			<DefinedType>СтрокаВЕТИС</DefinedType>
+			<DefinedType>ЕдиницаИзмерения</DefinedType>
+			<DefinedType>GTIN</DefinedType>
 			<Constant>ИспользоватьСегментыНоменклатуры</Constant>
 			<Constant>ИспользоватьКачествоТоваров</Constant>
 			<Catalog>Номенклатура</Catalog>
@@ -65,14 +68,16 @@
 			<Catalog>КлассификаторОрганизацийЕГАИС</Catalog>
 			<Catalog>ВидыАлкогольнойПродукции</Catalog>
 			<Catalog>НоменклатураПоставщиков</Catalog>
-			<Catalog>ХарактеристикиНоменклатуры</Catalog>
 			<Catalog>УпаковкиЕдиницыИзмерения</Catalog>
+			<Catalog>ХарактеристикиНоменклатуры</Catalog>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>СпособыФормированияСегментов</Enum>
 			<Enum>ВариантыНавигацииВФормахНоменклатуры</Enum>
 			<Enum>ВариантыИспользованияХарактеристикНоменклатуры</Enum>
 			<Enum>ВариантыРасчетаЦенНаборов</Enum>
 			<Enum>СтавкиНДС</Enum>
+			<Enum>ГрадацииКачества</Enum>
+			<Enum>ОсобенностиУчетаНоменклатуры</Enum>
 			<InformationRegister>НоменклатураСегмента</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 		</ChildObjects>

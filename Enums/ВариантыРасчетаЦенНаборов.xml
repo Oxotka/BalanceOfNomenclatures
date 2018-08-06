@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<Enum uuid="32331c9c-ed9e-434c-ba3e-3e718184918e">
+	<Enum uuid="15d607c8-52e5-434e-ac68-3ab7e6b11fb4">
 		<InternalInfo>
 			<xr:GeneratedType name="EnumRef.ВариантыРасчетаЦенНаборов" category="Ref">
-				<xr:TypeId>d776ee8b-5c2f-4b71-aab6-f1afa7fa5891</xr:TypeId>
-				<xr:ValueId>c8463ea2-bafb-4bd8-8c8b-141c29b23282</xr:ValueId>
+				<xr:TypeId>7d2ad578-7d9c-4a81-b6fc-92e68a011365</xr:TypeId>
+				<xr:ValueId>6c3044b4-49d9-4e6c-b18a-584d12f6d512</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumManager.ВариантыРасчетаЦенНаборов" category="Manager">
-				<xr:TypeId>7078ba65-231e-4405-a704-77b3f9c51d0d</xr:TypeId>
-				<xr:ValueId>f5420ffe-1b33-4009-924d-3c9e06967d30</xr:ValueId>
+				<xr:TypeId>b5dc9bbd-bf24-45a1-99d7-f9c4b06fa105</xr:TypeId>
+				<xr:ValueId>747e1c52-4e4e-43a8-b396-6b091843895e</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumList.ВариантыРасчетаЦенНаборов" category="List">
-				<xr:TypeId>07f9b0ef-94e5-498b-b8e9-4da7e8551210</xr:TypeId>
-				<xr:ValueId>ad67b7e2-35d1-4000-863c-29ffd4ed027f</xr:ValueId>
+				<xr:TypeId>acb7ace0-d994-48c0-8b23-962ca1fafab4</xr:TypeId>
+				<xr:ValueId>0b4450b5-2121-48ba-8ffc-22ba93f26de5</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>

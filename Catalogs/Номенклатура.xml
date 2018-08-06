@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<Catalog uuid="ca395937-3f46-4b10-b90a-ac9d33822d1d">
+	<Catalog uuid="8ca244a2-36be-4e7a-a88c-dd1e0a54798a">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.Номенклатура" category="Object">
-				<xr:TypeId>96f283b8-f95b-431f-85ed-507db8df5f07</xr:TypeId>
-				<xr:ValueId>22a6133d-b634-409f-a8fd-a7ead8fdf801</xr:ValueId>
+				<xr:TypeId>615e354e-efef-493c-9151-c900557237fd</xr:TypeId>
+				<xr:ValueId>80c3778e-04b7-497e-864b-a89898833ccd</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.Номенклатура" category="Ref">
-				<xr:TypeId>1b61da31-21fb-4e21-940b-2c8a1550d78b</xr:TypeId>
-				<xr:ValueId>f5cb1069-e1b1-490e-8c75-cfb5daeb8a00</xr:ValueId>
+				<xr:TypeId>0e5f149b-791c-41ef-9d45-3b8da9889104</xr:TypeId>
+				<xr:ValueId>ee9972fb-ba86-4056-8f7b-e3a4e792c037</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.Номенклатура" category="Selection">
-				<xr:TypeId>dd6b5ecd-087a-478c-af20-d61b3ca17251</xr:TypeId>
-				<xr:ValueId>746b07d3-7a15-4bb5-8980-99c3aa073fd4</xr:ValueId>
+				<xr:TypeId>d438b580-c736-4774-bdd5-261eee44a60b</xr:TypeId>
+				<xr:ValueId>e68eafe0-c8a2-4394-9959-95c705c138be</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.Номенклатура" category="List">
-				<xr:TypeId>8b33d7bf-a0a8-4855-9eda-c8a12bc6f5ed</xr:TypeId>
-				<xr:ValueId>39b7dbad-9d29-46f0-bbb8-5a0775d7e7c7</xr:ValueId>
+				<xr:TypeId>0b692a49-079e-42e3-b850-c3f171d46067</xr:TypeId>
+				<xr:ValueId>b3112858-c301-4468-a7b0-d1d3e22f3090</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.Номенклатура" category="Manager">
-				<xr:TypeId>a4eecc5b-d1b1-4f43-b8e2-2a96dae4138b</xr:TypeId>
-				<xr:ValueId>41b6c5b2-b753-44e1-84e4-dba02707c6a6</xr:ValueId>
+				<xr:TypeId>1fd391ae-5d31-49ca-af17-3bfe1217dc0f</xr:TypeId>
+				<xr:ValueId>37685fb7-fc59-4a4c-98e8-9bc6c2090752</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -34,71 +34,70 @@
 			<CodeAllowedLength>Fixed</CodeAllowedLength>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="27ec76fd-ba78-4e2b-ab3f-151816cabbe3">
+			<Attribute uuid="98a998fd-398d-4d4a-95d3-a2ef465c0722">
+				<Properties>
+					<Name>Качество</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="8e295f7c-cf1f-430d-bb6e-06fc3e863f4c">
 				<Properties>
 					<Name>ТипНоменклатуры</Name>
 					<ObjectBelonging>Adopted</ObjectBelonging>
-					<Type>
-						<v8:Type>cfg:EnumRef.ТипыНоменклатуры</v8:Type>
-					</Type>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="381fea88-49a9-4d28-bd41-908e390e77da">
+			<Attribute uuid="94a96be9-7132-49d8-9e44-4eb468619f25">
 				<Properties>
 					<Name>ВидНоменклатуры</Name>
 					<ObjectBelonging>Adopted</ObjectBelonging>
-					<Type>
-						<v8:Type>cfg:CatalogRef.ВидыНоменклатуры</v8:Type>
-					</Type>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="992182d8-0610-49a5-b69b-5f3c789e3ad4">
+			<Attribute uuid="37e54173-7c74-402a-bd95-12376a3ee4c8">
 				<Properties>
 					<Name>Артикул</Name>
 					<ObjectBelonging>Adopted</ObjectBelonging>
-					<Type>
-						<v8:Type>xs:string</v8:Type>
-						<v8:StringQualifiers>
-							<v8:Length>50</v8:Length>
-							<v8:AllowedLength>Variable</v8:AllowedLength>
-						</v8:StringQualifiers>
-					</Type>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="32c0a266-62c0-4ecb-9acd-b6c21eb84586">
+			<Attribute uuid="a6f4bd83-eab0-4d09-854d-13bdf1f1c15a">
 				<Properties>
 					<Name>ЕдиницаИзмерения</Name>
 					<ObjectBelonging>Adopted</ObjectBelonging>
-					<Type>
-						<v8:Type>cfg:CatalogRef.УпаковкиЕдиницыИзмерения</v8:Type>
-					</Type>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="1f874e5e-b6a8-4502-9aaf-1dd1d9dd629a">
+			<Attribute uuid="2d045c4c-e43d-4c4e-817d-c4979951e209">
 				<Properties>
 					<Name>СтавкаНДС</Name>
 					<ObjectBelonging>Adopted</ObjectBelonging>
-					<Type>
-						<v8:Type>cfg:EnumRef.СтавкиНДС</v8:Type>
-					</Type>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="5786b60d-126d-49e7-be81-1dbe5dfd3e3c">
+			<Attribute uuid="f7ef4317-e13e-40d7-bc3e-7b0fdf392833">
 				<Properties>
 					<Name>ИспользованиеХарактеристик</Name>
 					<ObjectBelonging>Adopted</ObjectBelonging>
-					<Type>
-						<v8:Type>cfg:EnumRef.ВариантыИспользованияХарактеристикНоменклатуры</v8:Type>
-					</Type>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="cc4728f4-e5b5-4fb0-86c2-e48a429be809">
+			<Attribute uuid="f411b397-ff84-4c66-afc0-31574c60a805">
 				<Properties>
 					<Name>ЕстьТоварыДругогоКачества</Name>
 					<ObjectBelonging>Adopted</ObjectBelonging>
-					<Type>
-						<v8:Type>xs:boolean</v8:Type>
-					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="971ba394-f49e-4b2f-8a47-88e0c5e1fb0c">
+				<Properties>
+					<Name>ОсобенностьУчета</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="c32dacae-f148-492c-81c3-0d7833d6937a">
+				<Properties>
+					<Name>ВестиУчетСертификатовНоменклатуры</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="e61a70a6-66da-4380-bc79-9c825fa44fdb">
+				<Properties>
+					<Name>ПродукцияМаркируемаяДляГИСМ</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
 				</Properties>
 			</Attribute>
 			<Form>ФормаВыбора</Form>

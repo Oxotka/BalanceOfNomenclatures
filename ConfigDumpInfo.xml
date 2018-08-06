@@ -1,63 +1,72 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
 	<ConfigVersions>
-		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="574713f1-a166-4475-b144-4a41da637e28" configVersion="41b4ee45d5291284d206a3189119865509388654">
-			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="3a700de9-5fcd-47f3-a08c-0bccefda136d"/>
+		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="574713f1-a166-4475-b144-4a41da637e28" configVersion="31a0375f0b33b0d1431138f750b5e9e967171ac6">
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.ВНаличии" id="5466ae17-f06f-4bc4-b31d-e09358b7223c"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="b85646b8-eb70-4fd9-af28-cb72127c1142"/>
 		</Metadata>
-		<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры" id="58c2ab17-7d42-4ade-9132-ad872bb11e2d" configVersion="00b3bf5f53fd1b659286900237dd891cb279a853">
-			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.ВариантРасчетаЦеныНабора" id="08d7150a-e0e3-49c6-982d-72793d9eaa01"/>
-			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.Основной" id="224aa13c-4657-4a26-8de4-eb8c67e27944"/>
-			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.СодержитУслуги" id="2c35b76c-672a-414e-8cbd-30a4fd595f2b"/>
-			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.Характеристика" id="7e0e86f4-45f6-475f-a4e2-16f14658b1a2"/>
-			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.СодержитТовары" id="e55ee31c-2914-45fa-81f7-162ad60e25b6"/>
+		<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры" id="d020b054-0758-4ce4-9cd2-6670f3e94e58" configVersion="3d3aa7577fa13b15802327120002b9c44058547d">
+			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.Характеристика" id="04ba77f1-bb90-4d5a-ad93-d74141f50f8d"/>
+			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.СодержитТовары" id="0595c78a-e567-42fd-acd6-0638ed3623c2"/>
+			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.СодержитУслуги" id="74b1e1ad-64b1-4fd7-90be-3c58ad5b316d"/>
+			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.Основной" id="ade38873-74b9-437c-aaf1-085f618badd0"/>
+			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.ВариантРасчетаЦеныНабора" id="e43a5635-2647-463f-b248-bf7f6346798e"/>
 		</Metadata>
-		<Metadata name="Catalog.ВидыАлкогольнойПродукции" id="c9224d9c-f77a-4386-8d61-691467334a6f" configVersion="6cc343bb7d3c5864e36bdf5b3ed5e0351c6209ba"/>
-		<Metadata name="Catalog.ВидыНоменклатуры" id="cec16c1b-4a55-4eda-bb6d-6e774ed62469" configVersion="432c10587f925fac178efb8910b89ea7b1bbe7ee"/>
-		<Metadata name="Catalog.КлассификаторАлкогольнойПродукцииЕГАИС" id="780d43b4-b9ba-4e84-a3cd-9154042ebc29" configVersion="74f4f53689736f7893a9c581433f0e4227c41fb6"/>
-		<Metadata name="Catalog.КлассификаторОрганизацийЕГАИС" id="752077a4-adca-4a07-876d-12436b774208" configVersion="c9f221ad9603b3064cf076c1b87587d508c3e4db"/>
-		<Metadata name="Catalog.Номенклатура" id="ca395937-3f46-4b10-b90a-ac9d33822d1d" configVersion="1e5359840a1ec3f48b5f6ad3d82c575ce60e15ba">
-			<Metadata name="Catalog.Номенклатура.Attribute.СтавкаНДС" id="1f874e5e-b6a8-4502-9aaf-1dd1d9dd629a"/>
-			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="27ec76fd-ba78-4e2b-ab3f-151816cabbe3"/>
-			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="32c0a266-62c0-4ecb-9acd-b6c21eb84586"/>
-			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="381fea88-49a9-4d28-bd41-908e390e77da"/>
-			<Metadata name="Catalog.Номенклатура.Attribute.ИспользованиеХарактеристик" id="5786b60d-126d-49e7-be81-1dbe5dfd3e3c"/>
-			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="992182d8-0610-49a5-b69b-5f3c789e3ad4"/>
-			<Metadata name="Catalog.Номенклатура.Attribute.ЕстьТоварыДругогоКачества" id="cc4728f4-e5b5-4fb0-86c2-e48a429be809"/>
+		<Metadata name="Catalog.ВидыАлкогольнойПродукции" id="9d335bd3-c0cc-4348-a2de-388ab140902a" configVersion="33ca954ca94a5158b9a8014ac7a8977a8e5389ca"/>
+		<Metadata name="Catalog.ВидыНоменклатуры" id="94a83167-771b-4992-a11c-e6d2e7a33be4" configVersion="cfd95cef25c85f1e00bc59222fc38945d1b97f04"/>
+		<Metadata name="Catalog.КлассификаторАлкогольнойПродукцииЕГАИС" id="6c2090f5-15be-4f9e-ae85-46fcacf4e2f7" configVersion="dabf915599d4c0ba31d84352ed3955ef112d9c96"/>
+		<Metadata name="Catalog.КлассификаторОрганизацийЕГАИС" id="827a2864-b11d-4cdc-b873-ce92a4cdd2f9" configVersion="ea5d3cff0e7463be6113563398834379916e016e"/>
+		<Metadata name="Catalog.Номенклатура" id="8ca244a2-36be-4e7a-a88c-dd1e0a54798a" configVersion="6195665de7408e085d2d8a5f4cde97656852d594">
+			<Metadata name="Catalog.Номенклатура.Attribute.СтавкаНДС" id="2d045c4c-e43d-4c4e-817d-c4979951e209"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="37e54173-7c74-402a-bd95-12376a3ee4c8"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="8e295f7c-cf1f-430d-bb6e-06fc3e863f4c"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="94a96be9-7132-49d8-9e44-4eb468619f25"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ОсобенностьУчета" id="971ba394-f49e-4b2f-8a47-88e0c5e1fb0c"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Качество" id="98a998fd-398d-4d4a-95d3-a2ef465c0722"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="a6f4bd83-eab0-4d09-854d-13bdf1f1c15a"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ВестиУчетСертификатовНоменклатуры" id="c32dacae-f148-492c-81c3-0d7833d6937a"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ПродукцияМаркируемаяДляГИСМ" id="e61a70a6-66da-4380-bc79-9c825fa44fdb"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕстьТоварыДругогоКачества" id="f411b397-ff84-4c66-afc0-31574c60a805"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ИспользованиеХарактеристик" id="f7ef4317-e13e-40d7-bc3e-7b0fdf392833"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаВыбора" id="84325ef6-79b3-4e45-9ffc-437a04eee0d9" configVersion="9800a66098ebd436ca25d1dcd1faa55d7c876c54"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаВыбора.Form" id="84325ef6-79b3-4e45-9ffc-437a04eee0d9.0" configVersion="844cc8790feb328410c5b718cce1741a12a32416"/>
-		<Metadata name="Catalog.НоменклатураПоставщиков" id="892fb050-b6e1-4c8c-8dc0-73f160088d6d" configVersion="ecb4abd1eb3e9eb8dcbacb161e126fe50a6918c9"/>
-		<Metadata name="Catalog.СегментыНоменклатуры" id="37d2a1aa-a3d3-4861-8b30-a4eed4756c20" configVersion="850d60e84d3f576a41d91a0e79256000ef2c7cfa"/>
-		<Metadata name="Catalog.УпаковкиЕдиницыИзмерения" id="f93f967c-82af-4c9d-9de6-10ee036ef80b" configVersion="dbadd0ce6d65c712c09cb944d62159cad5c7489c"/>
-		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="5645e320-d9d5-44c5-9171-3b6e33ff1cae" configVersion="cbbb9f4de9993fc856a1976283e2ec72e70e8437"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаВыбора" id="4cc63b92-ebf8-47cd-bd28-b5bccd2435ab" configVersion="c86b4ce7c9edce682e440d38fdf860591f7cc1b2"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаВыбора.Form" id="4cc63b92-ebf8-47cd-bd28-b5bccd2435ab.0" configVersion="56f3d9dda98f91d788b245a9784203acce014280"/>
+		<Metadata name="Catalog.НоменклатураПоставщиков" id="95bc1d70-94e8-4129-90d9-6c14c24b8ac8" configVersion="81303460a78de1f9ca5be96fa89f4a653b18421f"/>
+		<Metadata name="Catalog.СегментыНоменклатуры" id="13886bbd-62f0-4ec8-94c1-4d68bcbceba8" configVersion="53760b107e294852f237a02a98ac0fd3d23c98f4"/>
+		<Metadata name="Catalog.УпаковкиЕдиницыИзмерения" id="e5452651-abc8-47d0-8092-a8a80971921b" configVersion="56eff63071939f8aee14dd36b506f874eec58758"/>
+		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="7e1e1e65-b6cc-465d-8b80-1af5e2d4efa9" configVersion="8e98b7c53a43bc4b4f2f39b9091bb260a12b238f"/>
 		<Metadata name="CommonPicture.Номенклатура" id="2145b1af-6f76-4493-b5df-03e4cb8ea0a0" configVersion="ea5102d865ac15a7853f8456b3bab8c465fff2fb"/>
 		<Metadata name="CommonPicture.ПрочиеПользовательскиеНастройки" id="d51301b3-fadd-42dc-a79d-c28151869dc6" configVersion="b20604229ccba9b819d61cf32d00418061321f09"/>
 		<Metadata name="CommonPicture.ФильтрПоВидамИСвойствамНоменклатуры" id="7162faf8-9a82-4aa8-8a15-6f80d3855530" configVersion="fa8404863b63942332dafebba59b8d7d25476d36"/>
 		<Metadata name="CommonPicture.ФильтрПоСвойствам" id="355a59a7-e361-4eed-9cd6-f686ac0510ef" configVersion="6b1e99d48af97eb1788d35960ab903716cf2e1f8"/>
 		<Metadata name="CommonPicture.ФильтрПоТоварамДругогоКачества" id="99c871aa-f4c3-469a-954e-31a566458c92" configVersion="6d25b1acdba1ebf85411eab4bee65bf259265426"/>
-		<Metadata name="Configuration.ОстаткиНоменклатурыВФормеВыбора" id="7d32448e-8104-485e-bc6f-8d2313635913" configVersion="c76f3e31b9f6b7f02373840e2b607db98f357ab9"/>
+		<Metadata name="Configuration.ОстаткиНоменклатурыВФормеВыбора" id="7d32448e-8104-485e-bc6f-8d2313635913" configVersion="e9acd76fc9ac7629959283bfa48640a982034b59"/>
 		<Metadata name="Constant.ИспользоватьКачествоТоваров" id="6eb1052a-b88c-4c33-a8cb-53708504051f" configVersion="1e49a35d59c845ad3dd8c3e17069a92cad9d2bc2"/>
 		<Metadata name="Constant.ИспользоватьСегментыНоменклатуры" id="37fa12f7-125e-4da4-adf3-bf9e5c0fccb7" configVersion="f63af4062cd33225db346d58d17a80511b970ba1"/>
+		<Metadata name="DefinedType.GTIN" id="a2446d2e-ac8a-4234-ba01-e9ccd8b3cadd" configVersion="755720520b2c53a5ee0e13a580d9c6a63d8c612b"/>
 		<Metadata name="DefinedType.Артикул" id="0ad7d1ec-fbf1-4a3c-bf82-601f27afae10" configVersion="b22eec330f84a50f43bfc118ab7d9cd6eb7bfb71"/>
-		<Metadata name="Enum.ВариантыИспользованияХарактеристикНоменклатуры" id="8928d1ff-c177-40f4-a9c1-954e76223104" configVersion="d318813b1cfa2f565e6b6a36043ff1789876a5fb">
-			<Metadata name="Enum.ВариантыИспользованияХарактеристикНоменклатуры.EnumValue.НеИспользовать" id="837f6f43-3969-494e-ba72-72c9f56f3a83"/>
+		<Metadata name="DefinedType.ЕдиницаИзмерения" id="03d4bfad-78a6-45d4-9fd6-30116a671be6" configVersion="aef35e861c56d28e9142f853ed1b40d4e41e1ca4"/>
+		<Metadata name="DefinedType.СтрокаВЕТИС" id="0fa92704-5adf-428b-9a2e-615d1e932b89" configVersion="16ac1629f9548d1238440e2bd1a26b72fa6b391b"/>
+		<Metadata name="Enum.ВариантыИспользованияХарактеристикНоменклатуры" id="c3700688-8080-43f8-bc48-76b49707d8fc" configVersion="f34d104421dfb186834fbf812e0b666007beda9c">
+			<Metadata name="Enum.ВариантыИспользованияХарактеристикНоменклатуры.EnumValue.НеИспользовать" id="4f99d158-22db-4eeb-8365-4d997f56b9b4"/>
 		</Metadata>
-		<Metadata name="Enum.ВариантыНавигацииВФормахНоменклатуры" id="e65a7a7c-5fbc-43c3-b715-780d982da540" configVersion="b7afbdea42ffa40ee86f0c13ef36e3cb8a3ab288"/>
-		<Metadata name="Enum.ВариантыРасчетаЦенНаборов" id="32331c9c-ed9e-434c-ba3e-3e718184918e" configVersion="7ba0f0c6903d8139ca7ba386c95b090b8bc43f01"/>
-		<Metadata name="Enum.СпособыФормированияСегментов" id="55a3a05a-11dc-4d5b-91a0-684968d703c1" configVersion="dff5177009528e0b02e1d9c5b04f687b82923915">
-			<Metadata name="Enum.СпособыФормированияСегментов.EnumValue.ФормироватьВручную" id="0c57b1e7-425b-4903-8acf-04f4f71d6066"/>
-			<Metadata name="Enum.СпособыФормированияСегментов.EnumValue.ПериодическиОбновлять" id="91ceeb6e-3403-42d9-9720-2e0d0735ed67"/>
+		<Metadata name="Enum.ВариантыНавигацииВФормахНоменклатуры" id="88fd094d-50cb-437a-86e9-898385771d47" configVersion="db640b035080a306360261ccaa8c5b699b43fd44"/>
+		<Metadata name="Enum.ВариантыРасчетаЦенНаборов" id="15d607c8-52e5-434e-ac68-3ab7e6b11fb4" configVersion="6da843efe1a6bb60027ff4b075b7af3e14f6834d"/>
+		<Metadata name="Enum.ГрадацииКачества" id="59a0cf52-ebd5-4745-9ff8-4914e97b796a" configVersion="c1306f093679b4ea8e6fa39426c3c85ba906b9fb"/>
+		<Metadata name="Enum.ОсобенностиУчетаНоменклатуры" id="30312abc-abb0-4491-86c9-2ceb219659b5" configVersion="eb0b5b5d6ebc1b2e1e6f3d99569b0c8a15fddb36"/>
+		<Metadata name="Enum.СпособыФормированияСегментов" id="99e87c20-ec9c-449c-849a-a85553034674" configVersion="12ab5822f5010a8247076b3512ed403f48457761">
+			<Metadata name="Enum.СпособыФормированияСегментов.EnumValue.ФормироватьВручную" id="24ff735a-c2f9-4725-b144-367fff8aaada"/>
+			<Metadata name="Enum.СпособыФормированияСегментов.EnumValue.ПериодическиОбновлять" id="af0b8622-cbe3-4708-abfc-15802deed537"/>
 		</Metadata>
-		<Metadata name="Enum.СтавкиНДС" id="c51b056b-7783-4722-84ed-e50661c70b0d" configVersion="b3b56456f797d0348f82de2d2a7386f4f3e14d21"/>
-		<Metadata name="Enum.ТипыНоменклатуры" id="2791cd2a-ec6b-4407-8983-1fd68678ea46" configVersion="d2b522f28b32c74dba8afe9d8842e510545bbba5">
-			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Набор" id="dc4a5e59-457a-48f2-9ebf-5a9c5e656d7d"/>
+		<Metadata name="Enum.СтавкиНДС" id="9c08f950-9c09-4591-a226-1dc18f03e74e" configVersion="eea022044f9fc9f5f8781d97f5e1a4a07539f004"/>
+		<Metadata name="Enum.ТипыНоменклатуры" id="b7f3ef94-278e-45a5-b59b-704cd3a7d258" configVersion="adfa77f4243b5a32cb5891f820e9d911453e5925">
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Набор" id="897d23ac-a33c-4312-992e-3e941948217d"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьКачествоТоваров" id="caa600a2-a88e-4ba5-8619-2ba4563e8fa1" configVersion="9aab277698a3f047996de8759fdd63192d63015f"/>
 		<Metadata name="FunctionalOption.ИспользоватьСегментыНоменклатуры" id="2dfb40c3-dfe3-4041-9d63-bbec5eacd0ba" configVersion="848144c3028f3e687f16063d2f15982940216c73"/>
-		<Metadata name="InformationRegister.НоменклатураСегмента" id="011525f7-93ce-4b19-bc9f-cfc4d90a45e7" configVersion="e59f1584676408f4177cae5d337f7c8050b58fa3">
-			<Metadata name="InformationRegister.НоменклатураСегмента.Dimension.Сегмент" id="7365e7bc-ebd0-450e-964e-79868021410e"/>
-			<Metadata name="InformationRegister.НоменклатураСегмента.Dimension.Номенклатура" id="eb639b6d-a9de-47fc-beca-5364e77c46c7"/>
+		<Metadata name="InformationRegister.НоменклатураСегмента" id="c027397a-c78a-4367-aa80-f2ffcf6ed1fd" configVersion="db4205da5eef1eee32400a1171a836424427510f">
+			<Metadata name="InformationRegister.НоменклатураСегмента.Dimension.Номенклатура" id="668825b9-6483-4a2a-babe-36b1d8c69a4d"/>
+			<Metadata name="InformationRegister.НоменклатураСегмента.Dimension.Сегмент" id="aed70299-a474-4e30-ac4e-5c68cbb66563"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="8c81059e-ce3b-4e6c-bd6d-69b54ee37f44" configVersion="9bbe42fc0bf6ca172fcfd5b8207436d446f29673"/>
 		<Metadata name="StyleItem.ЦветГиперссылки" id="54cd4334-9aa9-4af6-8b54-7c59ffe11314" configVersion="0ae75ab5750f790c413a58d5d525a06f299a70aa"/>

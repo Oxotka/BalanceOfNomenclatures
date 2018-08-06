@@ -1,24 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<Enum uuid="88fd094d-50cb-437a-86e9-898385771d47">
+	<DefinedType uuid="a2446d2e-ac8a-4234-ba01-e9ccd8b3cadd">
 		<InternalInfo>
-			<xr:GeneratedType name="EnumRef.ВариантыНавигацииВФормахНоменклатуры" category="Ref">
-				<xr:TypeId>8bc33ffb-c955-4e2e-8388-734785a2d9e2</xr:TypeId>
-				<xr:ValueId>4ada7558-36ed-4d0e-89ff-793bc47ceb13</xr:ValueId>
-			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumManager.ВариантыНавигацииВФормахНоменклатуры" category="Manager">
-				<xr:TypeId>ea47f6b4-0b47-4f8f-b4b0-0aa41570f2ea</xr:TypeId>
-				<xr:ValueId>c808ea21-31d6-4810-8c4d-198c78842e22</xr:ValueId>
-			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumList.ВариантыНавигацииВФормахНоменклатуры" category="List">
-				<xr:TypeId>5a72e1bc-e756-463d-a291-213cca7b957d</xr:TypeId>
-				<xr:ValueId>d44abe21-10b3-461f-97be-f20c8833a226</xr:ValueId>
+			<xr:GeneratedType name="DefinedType.GTIN" category="DefinedType">
+				<xr:TypeId>dd46295e-d437-4bed-a934-be408d513a8f</xr:TypeId>
+				<xr:ValueId>9431f9e6-da44-4c7c-b831-2d1a72a8ef5e</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ВариантыНавигацииВФормахНоменклатуры</Name>
+			<Name>GTIN</Name>
 			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>14</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
 		</Properties>
-		<ChildObjects/>
-	</Enum>
+	</DefinedType>
 </MetaDataObject>

@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<Enum uuid="55a3a05a-11dc-4d5b-91a0-684968d703c1">
+	<Enum uuid="99e87c20-ec9c-449c-849a-a85553034674">
 		<InternalInfo>
 			<xr:GeneratedType name="EnumRef.СпособыФормированияСегментов" category="Ref">
-				<xr:TypeId>eaccfb29-3bca-4670-82d8-b094f66796f3</xr:TypeId>
-				<xr:ValueId>12825761-8806-4784-871e-263102562d35</xr:ValueId>
+				<xr:TypeId>d2e4da8d-75a8-462c-9bfe-b88ec7c6bcf8</xr:TypeId>
+				<xr:ValueId>05bfff5d-175a-44cb-95a9-ccec0678cb59</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumManager.СпособыФормированияСегментов" category="Manager">
-				<xr:TypeId>f2ab25db-2bf3-47ec-bb86-2a27c0db2e06</xr:TypeId>
-				<xr:ValueId>095d7af1-f129-4dc1-bc43-9ecc518e34e2</xr:ValueId>
+				<xr:TypeId>ca0eae01-8549-42e4-88be-716bf287c449</xr:TypeId>
+				<xr:ValueId>3b04cf06-54a8-46f4-8dc2-8224c4450c75</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumList.СпособыФормированияСегментов" category="List">
-				<xr:TypeId>e07599ca-6408-4e20-80fe-d660287bba04</xr:TypeId>
-				<xr:ValueId>915b72d6-f608-4d08-83e9-96a5111f7e51</xr:ValueId>
+				<xr:TypeId>c5697cf0-81d0-44ee-8a08-534885f33317</xr:TypeId>
+				<xr:ValueId>4e0548ee-1d02-4642-8d09-73c93d16bf03</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -20,13 +20,13 @@
 			<ObjectBelonging>Adopted</ObjectBelonging>
 		</Properties>
 		<ChildObjects>
-			<EnumValue uuid="0c57b1e7-425b-4903-8acf-04f4f71d6066">
+			<EnumValue uuid="24ff735a-c2f9-4725-b144-367fff8aaada">
 				<Properties>
 					<Name>ФормироватьВручную</Name>
 					<ObjectBelonging>Adopted</ObjectBelonging>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="91ceeb6e-3403-42d9-9720-2e0d0735ed67">
+			<EnumValue uuid="af0b8622-cbe3-4708-abfc-15802deed537">
 				<Properties>
 					<Name>ПериодическиОбновлять</Name>
 					<ObjectBelonging>Adopted</ObjectBelonging>

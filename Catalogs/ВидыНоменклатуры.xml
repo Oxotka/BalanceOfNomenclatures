@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<Catalog uuid="cec16c1b-4a55-4eda-bb6d-6e774ed62469">
+	<Catalog uuid="94a83167-771b-4992-a11c-e6d2e7a33be4">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.ВидыНоменклатуры" category="Object">
-				<xr:TypeId>9f3b2ae6-81db-4e27-9528-ea39eb5dc49d</xr:TypeId>
-				<xr:ValueId>4ee0bd55-487d-4d6f-a41d-eac134433830</xr:ValueId>
+				<xr:TypeId>eca51ede-b671-4aa8-bdec-803652598ab3</xr:TypeId>
+				<xr:ValueId>76e9a2c4-6efa-4ea7-a667-47d50809b65a</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.ВидыНоменклатуры" category="Ref">
-				<xr:TypeId>00c4b9fa-1a54-4690-9d3f-e84957fc3ed2</xr:TypeId>
-				<xr:ValueId>dbbbd510-04fe-4d2d-9d3b-e955ba6c764c</xr:ValueId>
+				<xr:TypeId>fd0fd7ea-26c6-4c0a-9b39-36afc0f0aff7</xr:TypeId>
+				<xr:ValueId>de129355-c26e-461c-8779-ab09245a6cb3</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.ВидыНоменклатуры" category="Selection">
-				<xr:TypeId>b2791fee-8bfd-44cc-88b7-fd4f37dee4c8</xr:TypeId>
-				<xr:ValueId>da700678-5169-409e-af2d-d62f9758dff4</xr:ValueId>
+				<xr:TypeId>d1cf39e8-25aa-4623-846d-fa81e92ae4cc</xr:TypeId>
+				<xr:ValueId>ce2e257b-e888-4c8d-99ad-1a3fd4e30d8b</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.ВидыНоменклатуры" category="List">
-				<xr:TypeId>e6596789-195f-40e8-96a3-80c775b335fa</xr:TypeId>
-				<xr:ValueId>0596da5e-5d7f-44b8-bd80-1e2182790974</xr:ValueId>
+				<xr:TypeId>fd1277f5-0d0e-4399-9772-5ede0f3593d6</xr:TypeId>
+				<xr:ValueId>a43f7424-d33a-4421-90ea-c1c20a3c8e30</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.ВидыНоменклатуры" category="Manager">
-				<xr:TypeId>f05683d7-a28d-4f02-a282-9633f2bf9b73</xr:TypeId>
-				<xr:ValueId>282d82a5-674e-45a4-9511-1d004d738385</xr:ValueId>
+				<xr:TypeId>56d8b0a6-8fb8-48b9-8a23-444a0f484171</xr:TypeId>
+				<xr:ValueId>33393703-ac20-4929-a4e5-70184f529ce5</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
