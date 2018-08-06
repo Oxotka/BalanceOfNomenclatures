@@ -13,9 +13,7 @@
 			<Metadata name="Catalog.ВариантыКомплектацииНоменклатуры.Attribute.СодержитТовары" id="e55ee31c-2914-45fa-81f7-162ad60e25b6"/>
 		</Metadata>
 		<Metadata name="Catalog.ВидыАлкогольнойПродукции" id="c9224d9c-f77a-4386-8d61-691467334a6f" configVersion="6cc343bb7d3c5864e36bdf5b3ed5e0351c6209ba"/>
-		<Metadata name="Catalog.ВидыНоменклатуры" id="cec16c1b-4a55-4eda-bb6d-6e774ed62469" configVersion="5f94ccfb926010eaa041a5d6155ddd3c210fcce9">
-			<Metadata name="Catalog.ВидыНоменклатуры.Attribute.ВариантОказанияУслуг" id="a20d5bd5-ad05-4125-860c-a1ea51e4c9f7"/>
-		</Metadata>
+		<Metadata name="Catalog.ВидыНоменклатуры" id="cec16c1b-4a55-4eda-bb6d-6e774ed62469" configVersion="432c10587f925fac178efb8910b89ea7b1bbe7ee"/>
 		<Metadata name="Catalog.КлассификаторАлкогольнойПродукцииЕГАИС" id="780d43b4-b9ba-4e84-a3cd-9154042ebc29" configVersion="74f4f53689736f7893a9c581433f0e4227c41fb6"/>
 		<Metadata name="Catalog.КлассификаторОрганизацийЕГАИС" id="752077a4-adca-4a07-876d-12436b774208" configVersion="c9f221ad9603b3064cf076c1b87587d508c3e4db"/>
 		<Metadata name="Catalog.Номенклатура" id="ca395937-3f46-4b10-b90a-ac9d33822d1d" configVersion="1e5359840a1ec3f48b5f6ad3d82c575ce60e15ba">
@@ -38,7 +36,7 @@
 		<Metadata name="CommonPicture.ФильтрПоВидамИСвойствамНоменклатуры" id="7162faf8-9a82-4aa8-8a15-6f80d3855530" configVersion="fa8404863b63942332dafebba59b8d7d25476d36"/>
 		<Metadata name="CommonPicture.ФильтрПоСвойствам" id="355a59a7-e361-4eed-9cd6-f686ac0510ef" configVersion="6b1e99d48af97eb1788d35960ab903716cf2e1f8"/>
 		<Metadata name="CommonPicture.ФильтрПоТоварамДругогоКачества" id="99c871aa-f4c3-469a-954e-31a566458c92" configVersion="6d25b1acdba1ebf85411eab4bee65bf259265426"/>
-		<Metadata name="Configuration.ОстаткиНоменклатурыВФормеВыбора" id="7d32448e-8104-485e-bc6f-8d2313635913" configVersion="4310c9701758988f416ce5345666ecd6815651f3"/>
+		<Metadata name="Configuration.ОстаткиНоменклатурыВФормеВыбора" id="7d32448e-8104-485e-bc6f-8d2313635913" configVersion="c76f3e31b9f6b7f02373840e2b607db98f357ab9"/>
 		<Metadata name="Constant.ИспользоватьКачествоТоваров" id="6eb1052a-b88c-4c33-a8cb-53708504051f" configVersion="1e49a35d59c845ad3dd8c3e17069a92cad9d2bc2"/>
 		<Metadata name="Constant.ИспользоватьСегментыНоменклатуры" id="37fa12f7-125e-4da4-adf3-bf9e5c0fccb7" configVersion="f63af4062cd33225db346d58d17a80511b970ba1"/>
 		<Metadata name="DefinedType.Артикул" id="0ad7d1ec-fbf1-4a3c-bf82-601f27afae10" configVersion="b22eec330f84a50f43bfc118ab7d9cd6eb7bfb71"/>
@@ -46,7 +44,6 @@
 			<Metadata name="Enum.ВариантыИспользованияХарактеристикНоменклатуры.EnumValue.НеИспользовать" id="837f6f43-3969-494e-ba72-72c9f56f3a83"/>
 		</Metadata>
 		<Metadata name="Enum.ВариантыНавигацииВФормахНоменклатуры" id="e65a7a7c-5fbc-43c3-b715-780d982da540" configVersion="b7afbdea42ffa40ee86f0c13ef36e3cb8a3ab288"/>
-		<Metadata name="Enum.ВариантыОказанияУслуг" id="36572cb4-aeee-4136-89cf-3c457c73a862" configVersion="1031948d78724963a422942f092733c66c6b495d"/>
 		<Metadata name="Enum.ВариантыРасчетаЦенНаборов" id="32331c9c-ed9e-434c-ba3e-3e718184918e" configVersion="7ba0f0c6903d8139ca7ba386c95b090b8bc43f01"/>
 		<Metadata name="Enum.СпособыФормированияСегментов" id="55a3a05a-11dc-4d5b-91a0-684968d703c1" configVersion="dff5177009528e0b02e1d9c5b04f687b82923915">
 			<Metadata name="Enum.СпособыФормированияСегментов.EnumValue.ФормироватьВручную" id="0c57b1e7-425b-4903-8acf-04f4f71d6066"/>

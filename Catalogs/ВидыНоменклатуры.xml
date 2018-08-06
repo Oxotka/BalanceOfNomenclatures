@@ -30,16 +30,6 @@
 			<HierarchyType>HierarchyFoldersAndItems</HierarchyType>
 			<DescriptionLength>50</DescriptionLength>
 		</Properties>
-		<ChildObjects>
-			<Attribute uuid="a20d5bd5-ad05-4125-860c-a1ea51e4c9f7">
-				<Properties>
-					<Name>ВариантОказанияУслуг</Name>
-					<ObjectBelonging>Adopted</ObjectBelonging>
-					<Type>
-						<v8:Type>cfg:EnumRef.ВариантыОказанияУслуг</v8:Type>
-					</Type>
-				</Properties>
-			</Attribute>
-		</ChildObjects>
+		<ChildObjects/>
 	</Catalog>
 </MetaDataObject>

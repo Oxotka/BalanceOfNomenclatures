@@ -204,7 +204,7 @@
 									<EnableStartDrag>true</EnableStartDrag>
 									<EnableDrag>true</EnableDrag>
 									<DataPath>СписокНоменклатура</DataPath>
-									<RowPictureDataPath>СписокНоменклатура.ИндексКартинки</RowPictureDataPath>
+									<RowPictureDataPath>~СписокНоменклатура.ИндексКартинки</RowPictureDataPath>
 									<RowsPicture>
 										<xr:Ref>CommonPicture.Номенклатура</xr:Ref>
 										<xr:LoadTransparent>false</xr:LoadTransparent>
@@ -280,23 +280,23 @@
 									</SearchControlAddition>
 									<ChildItems>
 										<LabelField name="СписокСтандартныйПоискНоменклатураНаименование" id="183">
-											<DataPath>СписокНоменклатура.Description</DataPath>
+											<DataPath>~СписокНоменклатура.Description</DataPath>
 											<ContextMenu name="СписокСтандартныйПоискНоменклатураНаименованиеКонтекстноеМеню" id="184"/>
 											<ExtendedTooltip name="СписокСтандартныйПоискНоменклатураНаименованиеExtendedTooltip" id="231"/>
 										</LabelField>
 										<LabelField name="СписокСтандартныйПоискНоменклатураАртикул" id="185">
-											<DataPath>СписокНоменклатура.Артикул</DataPath>
+											<DataPath>~СписокНоменклатура.Артикул</DataPath>
 											<Width>16</Width>
 											<ContextMenu name="СписокСтандартныйПоискНоменклатураАртикулКонтекстноеМеню" id="186"/>
 											<ExtendedTooltip name="СписокСтандартныйПоискНоменклатураАртикулExtendedTooltip" id="232"/>
 										</LabelField>
 										<LabelField name="СписокСтандартныйПоискНоменклатураВНаличии" id="393">
-											<DataPath>СписокНоменклатура.ВНаличии</DataPath>
+											<DataPath>~СписокНоменклатура.ВНаличии</DataPath>
 											<ContextMenu name="СписокСтандартныйПоискНоменклатураВНаличииКонтекстноеМеню" id="394"/>
 											<ExtendedTooltip name="СписокСтандартныйПоискНоменклатураВНаличииРасширеннаяПодсказка" id="395"/>
 										</LabelField>
 										<LabelField name="СписокСтандартныйПоискНоменклатураСсылка" id="187">
-											<DataPath>СписокНоменклатура.Ссылка</DataPath>
+											<DataPath>~СписокНоменклатура.Ссылка</DataPath>
 											<UserVisible>
 												<xr:Common>false</xr:Common>
 											</UserVisible>
@@ -545,7 +545,7 @@
 									<SearchOnInput>DontUse</SearchOnInput>
 									<InitialTreeView>ExpandTopLevel</InitialTreeView>
 									<DataPath>СписокНоменклатура</DataPath>
-									<RowPictureDataPath>СписокНоменклатура.ИндексКартинки</RowPictureDataPath>
+									<RowPictureDataPath>~СписокНоменклатура.ИндексКартинки</RowPictureDataPath>
 									<RowsPicture>
 										<xr:Ref>CommonPicture.Номенклатура</xr:Ref>
 										<xr:LoadTransparent>false</xr:LoadTransparent>
@@ -623,23 +623,23 @@
 									</SearchControlAddition>
 									<ChildItems>
 										<LabelField name="СписокРасширенныйПоискНоменклатураНаименование" id="95">
-											<DataPath>СписокНоменклатура.Description</DataPath>
+											<DataPath>~СписокНоменклатура.Description</DataPath>
 											<ContextMenu name="СписокРасширенныйПоискНоменклатураНаименованиеКонтекстноеМеню" id="96"/>
 											<ExtendedTooltip name="СписокРасширенныйПоискНоменклатураНаименованиеExtendedTooltip" id="257"/>
 										</LabelField>
 										<LabelField name="СписокРасширенныйПоискНоменклатураАртикул" id="93">
-											<DataPath>СписокНоменклатура.Артикул</DataPath>
+											<DataPath>~СписокНоменклатура.Артикул</DataPath>
 											<Width>16</Width>
 											<ContextMenu name="СписокРасширенныйПоискНоменклатураАртикулКонтекстноеМеню" id="94"/>
 											<ExtendedTooltip name="СписокРасширенныйПоискНоменклатураАртикулExtendedTooltip" id="258"/>
 										</LabelField>
 										<LabelField name="СписокРасширенныйПоискНоменклатураВНаличии" id="396">
-											<DataPath>СписокНоменклатура.ВНаличии</DataPath>
+											<DataPath>~СписокНоменклатура.ВНаличии</DataPath>
 											<ContextMenu name="СписокРасширенныйПоискНоменклатураВНаличииКонтекстноеМеню" id="397"/>
 											<ExtendedTooltip name="СписокРасширенныйПоискНоменклатураВНаличииРасширеннаяПодсказка" id="398"/>
 										</LabelField>
 										<LabelField name="СписокРасширенныйПоискНоменклатураСсылка" id="59">
-											<DataPath>СписокНоменклатура.Ссылка</DataPath>
+											<DataPath>~СписокНоменклатура.Ссылка</DataPath>
 											<UserVisible>
 												<xr:Common>false</xr:Common>
 											</UserVisible>
@@ -1348,12 +1348,12 @@
 			</Type>
 			<MainAttribute>true</MainAttribute>
 			<UseAlways>
-				<Field>СписокНоменклатура.Description</Field>
-				<Field>СписокНоменклатура.Parent</Field>
-				<Field>СписокНоменклатура.ВидНоменклатуры</Field>
-				<Field>СписокНоменклатура.ИндексКартинки</Field>
-				<Field>СписокНоменклатура.ПометкаУдаления</Field>
-				<Field>СписокНоменклатура.Ссылка</Field>
+				<Field>~СписокНоменклатура.Description</Field>
+				<Field>~СписокНоменклатура.Parent</Field>
+				<Field>~СписокНоменклатура.ВидНоменклатуры</Field>
+				<Field>~СписокНоменклатура.ИндексКартинки</Field>
+				<Field>~СписокНоменклатура.ПометкаУдаления</Field>
+				<Field>~СписокНоменклатура.Ссылка</Field>
 			</UseAlways>
 			<Settings xsi:type="DynamicList">
 				<ManualQuery>true</ManualQuery>
@@ -2819,7 +2819,7 @@
 										<EnableStartDrag>true</EnableStartDrag>
 										<EnableDrag>true</EnableDrag>
 										<DataPath>СписокНоменклатура</DataPath>
-										<RowPictureDataPath>СписокНоменклатура.ИндексКартинки</RowPictureDataPath>
+										<RowPictureDataPath>~СписокНоменклатура.ИндексКартинки</RowPictureDataPath>
 										<RowsPicture>
 											<xr:Ref>CommonPicture.Номенклатура</xr:Ref>
 											<xr:LoadTransparent>false</xr:LoadTransparent>
@@ -2895,18 +2895,18 @@
 										</SearchControlAddition>
 										<ChildItems>
 											<LabelField name="СписокСтандартныйПоискНоменклатураНаименование" id="183">
-												<DataPath>СписокНоменклатура.Description</DataPath>
+												<DataPath>~СписокНоменклатура.Description</DataPath>
 												<ContextMenu name="СписокСтандартныйПоискНоменклатураНаименованиеКонтекстноеМеню" id="184"/>
 												<ExtendedTooltip name="СписокСтандартныйПоискНоменклатураНаименованиеExtendedTooltip" id="231"/>
 											</LabelField>
 											<LabelField name="СписокСтандартныйПоискНоменклатураАртикул" id="185">
-												<DataPath>СписокНоменклатура.Артикул</DataPath>
+												<DataPath>~СписокНоменклатура.Артикул</DataPath>
 												<Width>16</Width>
 												<ContextMenu name="СписокСтандартныйПоискНоменклатураАртикулКонтекстноеМеню" id="186"/>
 												<ExtendedTooltip name="СписокСтандартныйПоискНоменклатураАртикулExtendedTooltip" id="232"/>
 											</LabelField>
 											<LabelField name="СписокСтандартныйПоискНоменклатураСсылка" id="187">
-												<DataPath>СписокНоменклатура.Ссылка</DataPath>
+												<DataPath>~СписокНоменклатура.Ссылка</DataPath>
 												<UserVisible>
 													<xr:Common>false</xr:Common>
 												</UserVisible>
@@ -3155,7 +3155,7 @@
 										<SearchOnInput>DontUse</SearchOnInput>
 										<InitialTreeView>ExpandTopLevel</InitialTreeView>
 										<DataPath>СписокНоменклатура</DataPath>
-										<RowPictureDataPath>СписокНоменклатура.ИндексКартинки</RowPictureDataPath>
+										<RowPictureDataPath>~СписокНоменклатура.ИндексКартинки</RowPictureDataPath>
 										<RowsPicture>
 											<xr:Ref>CommonPicture.Номенклатура</xr:Ref>
 											<xr:LoadTransparent>false</xr:LoadTransparent>
@@ -3233,18 +3233,18 @@
 										</SearchControlAddition>
 										<ChildItems>
 											<LabelField name="СписокРасширенныйПоискНоменклатураНаименование" id="95">
-												<DataPath>СписокНоменклатура.Description</DataPath>
+												<DataPath>~СписокНоменклатура.Description</DataPath>
 												<ContextMenu name="СписокРасширенныйПоискНоменклатураНаименованиеКонтекстноеМеню" id="96"/>
 												<ExtendedTooltip name="СписокРасширенныйПоискНоменклатураНаименованиеExtendedTooltip" id="257"/>
 											</LabelField>
 											<LabelField name="СписокРасширенныйПоискНоменклатураАртикул" id="93">
-												<DataPath>СписокНоменклатура.Артикул</DataPath>
+												<DataPath>~СписокНоменклатура.Артикул</DataPath>
 												<Width>16</Width>
 												<ContextMenu name="СписокРасширенныйПоискНоменклатураАртикулКонтекстноеМеню" id="94"/>
 												<ExtendedTooltip name="СписокРасширенныйПоискНоменклатураАртикулExtendedTooltip" id="258"/>
 											</LabelField>
 											<LabelField name="СписокРасширенныйПоискНоменклатураСсылка" id="59">
-												<DataPath>СписокНоменклатура.Ссылка</DataPath>
+												<DataPath>~СписокНоменклатура.Ссылка</DataPath>
 												<UserVisible>
 													<xr:Common>false</xr:Common>
 												</UserVisible>
@@ -3953,12 +3953,12 @@
 				</Type>
 				<MainAttribute>true</MainAttribute>
 				<UseAlways>
-					<Field>СписокНоменклатура.Description</Field>
-					<Field>СписокНоменклатура.Parent</Field>
-					<Field>СписокНоменклатура.ВидНоменклатуры</Field>
-					<Field>СписокНоменклатура.ИндексКартинки</Field>
-					<Field>СписокНоменклатура.ПометкаУдаления</Field>
-					<Field>СписокНоменклатура.Ссылка</Field>
+					<Field>~СписокНоменклатура.Description</Field>
+					<Field>~СписокНоменклатура.Parent</Field>
+					<Field>~СписокНоменклатура.ВидНоменклатуры</Field>
+					<Field>~СписокНоменклатура.ИндексКартинки</Field>
+					<Field>~СписокНоменклатура.ПометкаУдаления</Field>
+					<Field>~СписокНоменклатура.Ссылка</Field>
 				</UseAlways>
 				<Settings xsi:type="DynamicList">
 					<ManualQuery>true</ManualQuery>

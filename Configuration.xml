@@ -42,7 +42,7 @@
 			<ConfigurationExtensionCompatibilityMode>Version8_3_8</ConfigurationExtensionCompatibilityMode>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>mrXoxot</Vendor>
-			<Version>1.0</Version>
+			<Version>1.1</Version>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
@@ -71,7 +71,6 @@
 			<Enum>СпособыФормированияСегментов</Enum>
 			<Enum>ВариантыНавигацииВФормахНоменклатуры</Enum>
 			<Enum>ВариантыИспользованияХарактеристикНоменклатуры</Enum>
-			<Enum>ВариантыОказанияУслуг</Enum>
 			<Enum>ВариантыРасчетаЦенНаборов</Enum>
 			<Enum>СтавкиНДС</Enum>
 			<InformationRegister>НоменклатураСегмента</InformationRegister>
